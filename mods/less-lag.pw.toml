@@ -1,0 +1,13 @@
+name = "Less Lag"
+filename = "lesslag-1.0-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24cdec53d82b5afdb78f1ca6db8e2341830caeff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2537249
+project-id = 289444

@@ -1,0 +1,12 @@
+name = "Modtd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d2043738865d55079461bbe395d6805cccc3b24d0104cfc0b2a12256ba90597d"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

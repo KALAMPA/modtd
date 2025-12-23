@@ -1,0 +1,13 @@
+name = "ArmorTech"
+filename = "armortech_v1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ad38e6672bf814decebaaf099125da296e112d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3007072
+project-id = 363661
