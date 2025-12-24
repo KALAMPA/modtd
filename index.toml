@@ -196,6 +196,11 @@ hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
@@ -291,6 +301,11 @@ hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
 metafile = true
 
 [[files]]
+file = "mods/techguns.pw.toml"
+hash = "64a89765878169d6f37f8450bedd3a75539987f93a124c8ca183d0fbbda94f31"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "a54a03942ed382d2d195f63e386c5bff4ef6c521b3b1a3d2a1d8fa4283e2c99b"
 metafile = true
@@ -328,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
-metafile = true
-
-[[files]]
-file = "mods/vics-modern-warfare-mod.pw.toml"
-hash = "fa6c91ce9030728003ea87cf27d83b60d6871d895a4a30bf6aca254699219631"
 metafile = true
 
 [[files]]
