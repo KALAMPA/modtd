@@ -206,11 +206,6 @@ hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
 
 [[files]]
-file = "mods/less-lag.pw.toml"
-hash = "a034996234d836f6c89fd94ced046a54c5b1ffa7a8a4eef5caf269bc27178aab"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
